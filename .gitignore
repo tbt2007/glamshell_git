@@ -1,0 +1,4 @@
+keep.txt
+.log 
+/build
+/build/.log
